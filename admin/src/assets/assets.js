@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://ecom-sv-backend.vercel.app/'
+export const url = 'https://ecommerce-website-ten-rosy.vercel.app/'

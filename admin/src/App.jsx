@@ -10,6 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "./index.css"
 const App = () => {
   const url = "https://ecommerce-website-ten-rosy.vercel.app/";
+  // const url = "http://localhost:4000";
 
   return (
     <>
