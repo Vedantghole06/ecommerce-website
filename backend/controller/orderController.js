@@ -6,7 +6,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 
 const placeOrder = async (req, res) => {
-    const frontend_url = "http://localhost:5173";
+    const frontend_url = "https://ecom-sv-frontend.vercel.app/";
 
     try {
         const conversionRate = 100; // Assuming conversion rate for USD to INR
