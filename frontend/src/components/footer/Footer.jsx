@@ -36,13 +36,13 @@ export const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li><a href="tel:+919876543210">+91 9876543210</a></li>
-            <li><a href="mailto:contact@neutron-nutracutical.com">contact@neutron-nutracutical.com</a></li>
-            {/* <li>contact@neutron-nutracutical.com</li> */}
+            <li><a href="mailto:contact@my-ecommerce.com">contact@my-ecommerce.com</a></li>
+            {/* <li>contact@my-ecommerce.com</li> */}
           </ul>
         </div>
       </div>
       <hr />
-      <p className='footer-copyrights'>Copyrights 2024  neutron-nutracutical.com - All Rights Reserved.</p>
+      <p className='footer-copyrights'>Copyrights 2024  my-ecommerce.com - All Rights Reserved.</p>
     </div>
   );
 }
